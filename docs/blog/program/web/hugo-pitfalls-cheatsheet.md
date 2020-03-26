@@ -8,6 +8,7 @@ categories:
 tags:
 - program
 - web
+- hugo
 ---
 
 - Why language specific params defined in "[lanuage]" missing some information defined outside "[lanuage]"
@@ -36,4 +37,4 @@ tags:
 
 > There is no easy way to do that, especially if you want to paginator the pages.
 > I wrote a document to detail desribe how to do it here:
-> [Hugo list all the pages under sub directories](http://www.guanxigo.com/en/blog/program/web/hugo-list-pages-in-nested-dirs/)
+> [Hugo list all the pages under sub directories](http://www.hdget.com/blog/program/web/hugo-list-pages-in-nested-dirs/)

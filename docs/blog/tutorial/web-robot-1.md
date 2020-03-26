@@ -55,4 +55,4 @@ title: Web抓取分析机器人连载(一)
 3. 解析我们感兴趣的页面中的内容
 4. 重新组织我们抓取的内容，保存或者重新格式化
 
-今天到此为止，请关注该连载教程下一篇：[Web抓取分析机器人开发教程连载(二)](http://www.guanxigo.com/webrobot-002/)
+今天到此为止，请关注该连载教程下一篇：[Web抓取分析机器人开发教程连载(二)](http://www.hdget.com/blog/tutorial/webrobot-002/)
