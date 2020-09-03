@@ -1,6 +1,8 @@
-# vuepress-theme-reco-demo
+- Switch npm registry to taobao registry
 
-Blog demo for vuepress-theme-reco
+```
+npm config set registry https://registry.npm.taobao.org
+```
 
 ```bash
 # 编译
